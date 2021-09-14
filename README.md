@@ -33,8 +33,9 @@ __일기를 작성하고 사진을 넣으면, 감정을 분석하고 알맞은 �
 <br/>
 
 ## DB&API Spec
-![image](https://user-images.githubusercontent.com/71035113/133247687-707f2b7c-89b5-435f-a55c-034ab6dfe192.png)
-![image](https://user-images.githubusercontent.com/71035113/133247752-7829fc82-f3d1-44d3-9f29-9563e3c42bce.png)
+![image](https://user-images.githubusercontent.com/71035113/133247854-45b16da5-a317-4229-ab91-8ddffc3704a6.png)
+![image](https://user-images.githubusercontent.com/71035113/133247887-b54f7fcd-f2c3-400d-bbfd-5c7591f6674b.png)
+
 
 <br/>
 ## Contributors
