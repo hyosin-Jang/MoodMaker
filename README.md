@@ -37,7 +37,6 @@ __일기를 작성하고 사진을 넣으면, 감정을 분석하고 알맞은 �
 ![image](https://user-images.githubusercontent.com/71035113/133247887-b54f7fcd-f2c3-400d-bbfd-5c7591f6674b.png)
 
 
-<br/>
 ## Contributors
 
 장효신([**@hyosin-Jang**](https://github.com/hyosin-Jang))      | 장윤아 ([**@zogak**](https://github.com/zogak))
